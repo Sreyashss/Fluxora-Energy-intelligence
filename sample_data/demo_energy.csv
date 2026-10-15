@@ -1,0 +1,1096 @@
+date,facility_name,consumption_kwh,cost_inr,occupancy,area_m2
+2025-01-01,Academic Block A,877.35,8071.64,456,4500.0
+2025-01-01,Central Library & Data Center,733.85,6751.44,251,3200.0
+2025-01-01,Student Hostels & Mess,747.52,6877.23,494,6000.0
+2025-01-02,Academic Block A,869.35,7998.03,437,4500.0
+2025-01-02,Central Library & Data Center,711.44,6545.28,182,3200.0
+2025-01-02,Student Hostels & Mess,775.51,7134.71,472,6000.0
+2025-01-03,Academic Block A,828.86,7625.52,370,4500.0
+2025-01-03,Central Library & Data Center,722.24,6644.65,212,3200.0
+2025-01-03,Student Hostels & Mess,801.68,7375.44,508,6000.0
+2025-01-04,Academic Block A,228.9,2105.9,46,4500.0
+2025-01-04,Central Library & Data Center,574.83,5288.41,117,3200.0
+2025-01-04,Student Hostels & Mess,762.14,7011.67,394,6000.0
+2025-01-05,Academic Block A,380.95,3504.78,48,4500.0
+2025-01-05,Central Library & Data Center,641.23,5899.29,133,3200.0
+2025-01-05,Student Hostels & Mess,840.38,7731.49,510,6000.0
+2025-01-06,Academic Block A,872.74,8029.21,400,4500.0
+2025-01-06,Central Library & Data Center,722.25,6644.67,197,3200.0
+2025-01-06,Student Hostels & Mess,868.51,7990.3,551,6000.0
+2025-01-07,Academic Block A,859.28,7905.38,358,4500.0
+2025-01-07,Central Library & Data Center,757.94,6973.04,232,3200.0
+2025-01-07,Student Hostels & Mess,762.04,7010.74,427,6000.0
+2025-01-08,Academic Block A,819.97,7543.75,384,4500.0
+2025-01-08,Central Library & Data Center,731.12,6726.27,183,3200.0
+2025-01-08,Student Hostels & Mess,807.57,7429.68,421,6000.0
+2025-01-09,Academic Block A,792.99,7295.53,353,4500.0
+2025-01-09,Central Library & Data Center,727.41,6692.14,233,3200.0
+2025-01-09,Student Hostels & Mess,704.87,6484.77,433,6000.0
+2025-01-10,Academic Block A,808.02,7433.83,444,4500.0
+2025-01-10,Central Library & Data Center,707.73,6511.09,232,3200.0
+2025-01-10,Student Hostels & Mess,728.67,6703.75,443,6000.0
+2025-01-11,Academic Block A,254.4,2340.48,57,4500.0
+2025-01-11,Central Library & Data Center,621.58,5718.56,134,3200.0
+2025-01-11,Student Hostels & Mess,750.96,6908.86,444,6000.0
+2025-01-12,Academic Block A,297.67,2738.58,54,4500.0
+2025-01-12,Central Library & Data Center,665.46,6122.27,124,3200.0
+2025-01-12,Student Hostels & Mess,773.51,7116.29,412,6000.0
+2025-01-13,Academic Block A,886.43,8155.15,390,4500.0
+2025-01-13,Central Library & Data Center,743.21,6837.51,207,3200.0
+2025-01-13,Student Hostels & Mess,805.25,7408.3,452,6000.0
+2025-01-14,Academic Block A,898.9,8269.88,397,4500.0
+2025-01-14,Central Library & Data Center,782.07,7195.03,216,3200.0
+2025-01-14,Student Hostels & Mess,747.04,6872.81,518,6000.0
+2025-01-15,Academic Block A,784.16,7214.3,384,4500.0
+2025-01-15,Central Library & Data Center,757.14,6965.68,244,3200.0
+2025-01-15,Student Hostels & Mess,805.07,7406.68,550,6000.0
+2025-01-16,Academic Block A,851.35,7832.42,350,4500.0
+2025-01-16,Central Library & Data Center,709.99,6531.88,193,3200.0
+2025-01-16,Student Hostels & Mess,823.37,7574.99,522,6000.0
+2025-01-17,Academic Block A,848.23,7803.68,412,4500.0
+2025-01-17,Central Library & Data Center,709.03,6523.11,231,3200.0
+2025-01-17,Student Hostels & Mess,863.77,7946.7,448,6000.0
+2025-01-18,Academic Block A,341.13,3138.41,33,4500.0
+2025-01-18,Central Library & Data Center,652.07,5999.07,140,3200.0
+2025-01-18,Student Hostels & Mess,762.32,7013.38,465,6000.0
+2025-01-19,Academic Block A,328.19,3019.33,59,4500.0
+2025-01-19,Central Library & Data Center,674.9,6209.07,95,3200.0
+2025-01-19,Student Hostels & Mess,678.7,6244.07,463,6000.0
+2025-01-20,Academic Block A,844.7,7771.26,379,4500.0
+2025-01-20,Central Library & Data Center,727.68,6694.63,241,3200.0
+2025-01-20,Student Hostels & Mess,822.03,7562.69,548,6000.0
+2025-01-21,Academic Block A,837.36,7703.67,465,4500.0
+2025-01-21,Central Library & Data Center,694.09,6385.67,256,3200.0
+2025-01-21,Student Hostels & Mess,685.79,6309.3,470,6000.0
+2025-01-22,Academic Block A,870.55,8009.04,408,4500.0
+2025-01-22,Central Library & Data Center,744.45,6848.92,231,3200.0
+2025-01-22,Student Hostels & Mess,711.11,6542.19,532,6000.0
+2025-01-23,Academic Block A,854.3,7859.59,361,4500.0
+2025-01-23,Central Library & Data Center,737.18,6782.04,218,3200.0
+2025-01-23,Student Hostels & Mess,715.25,6580.29,532,6000.0
+2025-01-24,Academic Block A,853.81,7855.02,430,4500.0
+2025-01-24,Central Library & Data Center,724.75,6667.67,180,3200.0
+2025-01-24,Student Hostels & Mess,788.63,7255.43,545,6000.0
+2025-01-25,Academic Block A,313.44,2883.63,35,4500.0
+2025-01-25,Central Library & Data Center,612.94,5639.04,121,3200.0
+2025-01-25,Student Hostels & Mess,707.49,6508.95,502,6000.0
+2025-01-26,Academic Block A,322.59,2967.82,46,4500.0
+2025-01-26,Central Library & Data Center,623.95,5740.3,123,3200.0
+2025-01-26,Student Hostels & Mess,793.36,7298.92,518,6000.0
+2025-01-27,Academic Block A,878.06,8078.14,473,4500.0
+2025-01-27,Central Library & Data Center,754.3,6939.6,238,3200.0
+2025-01-27,Student Hostels & Mess,860.26,7914.43,509,6000.0
+2025-01-28,Academic Block A,894.31,8227.67,496,4500.0
+2025-01-28,Central Library & Data Center,716.39,6590.8,212,3200.0
+2025-01-28,Student Hostels & Mess,781.2,7187.06,547,6000.0
+2025-01-29,Academic Block A,911.2,8383.06,360,4500.0
+2025-01-29,Central Library & Data Center,739.97,6807.72,236,3200.0
+2025-01-29,Student Hostels & Mess,777.73,7155.12,509,6000.0
+2025-01-30,Academic Block A,880.03,8096.23,461,4500.0
+2025-01-30,Central Library & Data Center,778.92,7166.03,181,3200.0
+2025-01-30,Student Hostels & Mess,893.57,8220.81,548,6000.0
+2025-01-31,Academic Block A,866.69,7973.59,358,4500.0
+2025-01-31,Central Library & Data Center,761.45,7005.38,198,3200.0
+2025-01-31,Student Hostels & Mess,812.88,7478.47,473,6000.0
+2025-02-01,Academic Block A,370.36,3407.35,53,4500.0
+2025-02-01,Central Library & Data Center,760.02,6992.18,137,3200.0
+2025-02-01,Student Hostels & Mess,907.94,8353.08,478,6000.0
+2025-02-02,Academic Block A,350.57,3225.2,32,4500.0
+2025-02-02,Central Library & Data Center,676.36,6222.54,105,3200.0
+2025-02-02,Student Hostels & Mess,836.21,7693.09,427,6000.0
+2025-02-03,Academic Block A,951.75,8756.1,497,4500.0
+2025-02-03,Central Library & Data Center,876.7,8065.59,246,3200.0
+2025-02-03,Student Hostels & Mess,868.22,7987.61,547,6000.0
+2025-02-04,Academic Block A,929.96,8555.6,464,4500.0
+2025-02-04,Central Library & Data Center,840.78,7735.14,201,3200.0
+2025-02-04,Student Hostels & Mess,932.75,8581.27,446,6000.0
+2025-02-05,Academic Block A,958.22,8815.61,376,4500.0
+2025-02-05,Central Library & Data Center,836.79,7698.47,207,3200.0
+2025-02-05,Student Hostels & Mess,955.74,8792.82,530,6000.0
+2025-02-06,Academic Block A,905.71,8332.55,410,4500.0
+2025-02-06,Central Library & Data Center,835.36,7685.35,227,3200.0
+2025-02-06,Student Hostels & Mess,854.76,7863.83,465,6000.0
+2025-02-07,Academic Block A,990.71,9114.54,466,4500.0
+2025-02-07,Central Library & Data Center,846.22,7785.19,216,3200.0
+2025-02-07,Student Hostels & Mess,917.86,8444.34,443,6000.0
+2025-02-08,Academic Block A,384.28,3535.34,60,4500.0
+2025-02-08,Central Library & Data Center,676.07,6219.87,124,3200.0
+2025-02-08,Student Hostels & Mess,798.42,7345.46,446,6000.0
+2025-02-09,Academic Block A,330.14,3037.28,47,4500.0
+2025-02-09,Central Library & Data Center,755.7,6952.47,92,3200.0
+2025-02-09,Student Hostels & Mess,840.1,7728.91,483,6000.0
+2025-02-10,Academic Block A,917.35,8439.64,476,4500.0
+2025-02-10,Central Library & Data Center,878.09,8078.41,206,3200.0
+2025-02-10,Student Hostels & Mess,856.58,7880.54,523,6000.0
+2025-02-11,Academic Block A,915.76,8425.02,486,4500.0
+2025-02-11,Central Library & Data Center,807.63,7430.19,221,3200.0
+2025-02-11,Student Hostels & Mess,952.88,8766.5,445,6000.0
+2025-02-12,Academic Block A,982.7,9040.84,362,4500.0
+2025-02-12,Central Library & Data Center,844.12,7765.87,239,3200.0
+2025-02-12,Student Hostels & Mess,918.2,8447.46,439,6000.0
+2025-02-13,Academic Block A,1142.37,10509.83,414,4500.0
+2025-02-13,Central Library & Data Center,831.44,7649.25,193,3200.0
+2025-02-13,Student Hostels & Mess,870.11,8005.04,534,6000.0
+2025-02-14,Academic Block A,917.13,8437.64,415,4500.0
+2025-02-14,Central Library & Data Center,791.38,7280.67,211,3200.0
+2025-02-14,Student Hostels & Mess,878.19,8079.31,482,6000.0
+2025-02-15,Academic Block A,360.68,3318.3,59,4500.0
+2025-02-15,Central Library & Data Center,754.99,6945.89,111,3200.0
+2025-02-15,Student Hostels & Mess,771.89,7101.4,428,6000.0
+2025-02-16,Academic Block A,316.81,2914.65,30,4500.0
+2025-02-16,Central Library & Data Center,724.36,6664.07,97,3200.0
+2025-02-16,Student Hostels & Mess,807.79,7431.65,384,6000.0
+2025-02-17,Academic Block A,999.58,9196.15,452,4500.0
+2025-02-17,Central Library & Data Center,908.07,8354.25,234,3200.0
+2025-02-17,Student Hostels & Mess,971.34,8936.3,471,6000.0
+2025-02-18,Academic Block A,910.14,8373.32,407,4500.0
+2025-02-18,Central Library & Data Center,776.68,7145.47,234,3200.0
+2025-02-18,Student Hostels & Mess,868.29,7988.29,481,6000.0
+2025-02-19,Academic Block A,942.98,8675.39,372,4500.0
+2025-02-19,Central Library & Data Center,889.84,8186.52,180,3200.0
+2025-02-19,Student Hostels & Mess,870.5,8008.63,477,6000.0
+2025-02-20,Academic Block A,963.8,8866.99,445,4500.0
+2025-02-20,Central Library & Data Center,861.35,7924.43,227,3200.0
+2025-02-20,Student Hostels & Mess,908.44,8357.67,488,6000.0
+2025-02-21,Academic Block A,1070.02,9844.15,371,4500.0
+2025-02-21,Central Library & Data Center,800.89,7368.21,236,3200.0
+2025-02-21,Student Hostels & Mess,906.76,8342.18,448,6000.0
+2025-02-22,Academic Block A,346.32,3186.12,55,4500.0
+2025-02-22,Central Library & Data Center,790.56,7273.15,115,3200.0
+2025-02-22,Student Hostels & Mess,706.75,6502.09,412,6000.0
+2025-02-23,Academic Block A,310.9,2860.3,59,4500.0
+2025-02-23,Central Library & Data Center,674.55,6205.87,99,3200.0
+2025-02-23,Student Hostels & Mess,784.39,7216.41,448,6000.0
+2025-02-24,Academic Block A,954.4,8780.5,487,4500.0
+2025-02-24,Central Library & Data Center,852.14,7839.67,198,3200.0
+2025-02-24,Student Hostels & Mess,944.13,8685.96,488,6000.0
+2025-02-25,Academic Block A,969.46,8919.04,353,4500.0
+2025-02-25,Central Library & Data Center,853.43,7851.58,181,3200.0
+2025-02-25,Student Hostels & Mess,903.53,8312.45,547,6000.0
+2025-02-26,Academic Block A,1021.76,9400.19,489,4500.0
+2025-02-26,Central Library & Data Center,852.34,7841.55,229,3200.0
+2025-02-26,Student Hostels & Mess,856.22,7877.26,520,6000.0
+2025-02-27,Academic Block A,978.19,8999.37,361,4500.0
+2025-02-27,Central Library & Data Center,849.58,7816.13,253,3200.0
+2025-02-27,Student Hostels & Mess,893.26,8217.99,462,6000.0
+2025-02-28,Academic Block A,981.64,9031.13,430,4500.0
+2025-02-28,Central Library & Data Center,817.72,7523.01,187,3200.0
+2025-02-28,Student Hostels & Mess,959.8,8830.13,534,6000.0
+2025-03-01,Academic Block A,368.85,3393.38,38,4500.0
+2025-03-01,Central Library & Data Center,908.14,8354.87,139,3200.0
+2025-03-01,Student Hostels & Mess,966.0,8887.17,454,6000.0
+2025-03-02,Academic Block A,429.29,3949.47,50,4500.0
+2025-03-02,Central Library & Data Center,867.04,7976.76,125,3200.0
+2025-03-02,Student Hostels & Mess,989.67,9104.96,478,6000.0
+2025-03-03,Academic Block A,1089.04,10019.21,385,4500.0
+2025-03-03,Central Library & Data Center,1005.93,9254.56,203,3200.0
+2025-03-03,Student Hostels & Mess,1014.74,9335.58,456,6000.0
+2025-03-04,Academic Block A,1155.4,10629.69,372,4500.0
+2025-03-04,Central Library & Data Center,934.27,8595.24,209,3200.0
+2025-03-04,Student Hostels & Mess,1038.89,9557.75,531,6000.0
+2025-03-05,Academic Block A,1162.89,10698.61,435,4500.0
+2025-03-05,Central Library & Data Center,949.91,8739.18,191,3200.0
+2025-03-05,Student Hostels & Mess,1026.47,9443.51,495,6000.0
+2025-03-06,Academic Block A,1138.64,10475.51,477,4500.0
+2025-03-06,Central Library & Data Center,963.86,8867.55,231,3200.0
+2025-03-06,Student Hostels & Mess,1114.89,10257.01,536,6000.0
+2025-03-07,Academic Block A,1168.94,10754.2,418,4500.0
+2025-03-07,Central Library & Data Center,937.42,8624.26,232,3200.0
+2025-03-07,Student Hostels & Mess,989.83,9106.46,476,6000.0
+2025-03-08,Academic Block A,494.61,4550.46,44,4500.0
+2025-03-08,Central Library & Data Center,861.74,7927.98,101,3200.0
+2025-03-08,Student Hostels & Mess,1003.16,9229.07,386,6000.0
+2025-03-09,Academic Block A,435.32,4004.97,43,4500.0
+2025-03-09,Central Library & Data Center,836.6,7696.73,139,3200.0
+2025-03-09,Student Hostels & Mess,975.75,8976.93,406,6000.0
+2025-03-10,Academic Block A,1099.8,10118.19,432,4500.0
+2025-03-10,Central Library & Data Center,974.56,8965.97,187,3200.0
+2025-03-10,Student Hostels & Mess,980.48,9020.38,490,6000.0
+2025-03-11,Academic Block A,1057.66,9730.51,394,4500.0
+2025-03-11,Central Library & Data Center,947.67,8718.59,210,3200.0
+2025-03-11,Student Hostels & Mess,1092.8,10053.8,438,6000.0
+2025-03-12,Academic Block A,1134.99,10441.92,440,4500.0
+2025-03-12,Central Library & Data Center,1011.86,9309.12,253,3200.0
+2025-03-12,Student Hostels & Mess,1026.31,9442.02,545,6000.0
+2025-03-13,Academic Block A,1120.79,10311.31,407,4500.0
+2025-03-13,Central Library & Data Center,993.16,9137.06,218,3200.0
+2025-03-13,Student Hostels & Mess,1069.13,9836.03,420,6000.0
+2025-03-14,Academic Block A,1071.31,9856.05,462,4500.0
+2025-03-14,Central Library & Data Center,990.45,9112.11,204,3200.0
+2025-03-14,Student Hostels & Mess,1024.67,9426.98,553,6000.0
+2025-03-15,Academic Block A,433.6,3989.08,55,4500.0
+2025-03-15,Central Library & Data Center,856.32,7878.17,126,3200.0
+2025-03-15,Student Hostels & Mess,968.1,8906.55,399,6000.0
+2025-03-16,Academic Block A,381.42,3509.05,30,4500.0
+2025-03-16,Central Library & Data Center,820.59,7549.4,92,3200.0
+2025-03-16,Student Hostels & Mess,963.16,8861.1,496,6000.0
+2025-03-17,Academic Block A,1164.93,10717.39,357,4500.0
+2025-03-17,Central Library & Data Center,981.48,9029.63,187,3200.0
+2025-03-17,Student Hostels & Mess,996.77,9170.25,479,6000.0
+2025-03-18,Academic Block A,1086.84,9998.92,390,4500.0
+2025-03-18,Central Library & Data Center,972.11,8943.43,243,3200.0
+2025-03-18,Student Hostels & Mess,1018.6,9371.16,560,6000.0
+2025-03-19,Academic Block A,1118.77,10292.72,395,4500.0
+2025-03-19,Central Library & Data Center,1018.14,9366.89,204,3200.0
+2025-03-19,Student Hostels & Mess,969.19,8916.52,429,6000.0
+2025-03-20,Academic Block A,1174.07,10801.49,360,4500.0
+2025-03-20,Central Library & Data Center,953.52,8772.43,205,3200.0
+2025-03-20,Student Hostels & Mess,1052.04,9678.74,446,6000.0
+2025-03-21,Academic Block A,1117.11,10277.42,447,4500.0
+2025-03-21,Central Library & Data Center,977.87,8996.44,184,3200.0
+2025-03-21,Student Hostels & Mess,1114.86,10256.72,521,6000.0
+2025-03-22,Academic Block A,420.49,3868.5,50,4500.0
+2025-03-22,Central Library & Data Center,873.83,8039.21,126,3200.0
+2025-03-22,Student Hostels & Mess,941.83,8664.83,464,6000.0
+2025-03-23,Academic Block A,474.02,4360.97,43,4500.0
+2025-03-23,Central Library & Data Center,829.9,7635.12,134,3200.0
+2025-03-23,Student Hostels & Mess,936.44,8615.22,383,6000.0
+2025-03-24,Academic Block A,1153.02,10607.81,381,4500.0
+2025-03-24,Central Library & Data Center,933.86,8591.52,213,3200.0
+2025-03-24,Student Hostels & Mess,1005.28,9248.62,537,6000.0
+2025-03-25,Academic Block A,1107.33,10187.4,352,4500.0
+2025-03-25,Central Library & Data Center,1002.98,9227.41,233,3200.0
+2025-03-25,Student Hostels & Mess,1041.1,9578.13,552,6000.0
+2025-03-26,Academic Block A,1095.65,10080.01,500,4500.0
+2025-03-26,Central Library & Data Center,1043.78,9602.76,258,3200.0
+2025-03-26,Student Hostels & Mess,1062.15,9771.78,494,6000.0
+2025-03-27,Academic Block A,1175.58,10815.31,452,4500.0
+2025-03-27,Central Library & Data Center,999.35,9194.05,209,3200.0
+2025-03-27,Student Hostels & Mess,968.05,8906.06,498,6000.0
+2025-03-28,Academic Block A,1160.87,10680.03,401,4500.0
+2025-03-28,Central Library & Data Center,963.49,8864.09,217,3200.0
+2025-03-28,Student Hostels & Mess,1073.04,9871.99,449,6000.0
+2025-03-29,Academic Block A,408.34,3756.72,52,4500.0
+2025-03-29,Central Library & Data Center,906.78,8342.35,118,3200.0
+2025-03-29,Student Hostels & Mess,976.7,8985.68,511,6000.0
+2025-03-30,Academic Block A,467.55,4301.43,46,4500.0
+2025-03-30,Central Library & Data Center,845.28,7776.56,109,3200.0
+2025-03-30,Student Hostels & Mess,982.96,9043.26,432,6000.0
+2025-03-31,Academic Block A,1119.53,10299.66,475,4500.0
+2025-03-31,Central Library & Data Center,928.47,8541.89,202,3200.0
+2025-03-31,Student Hostels & Mess,1065.19,9799.72,499,6000.0
+2025-04-01,Academic Block A,1137.26,10462.81,374,4500.0
+2025-04-01,Central Library & Data Center,1039.04,9559.18,246,3200.0
+2025-04-01,Student Hostels & Mess,1101.12,10130.27,480,6000.0
+2025-04-02,Academic Block A,1235.13,11363.23,471,4500.0
+2025-04-02,Central Library & Data Center,1042.89,9594.63,221,3200.0
+2025-04-02,Student Hostels & Mess,1078.22,9919.62,480,6000.0
+2025-04-03,Academic Block A,1189.11,10939.77,482,4500.0
+2025-04-03,Central Library & Data Center,1009.75,9289.72,191,3200.0
+2025-04-03,Student Hostels & Mess,1077.22,9910.44,497,6000.0
+2025-04-04,Academic Block A,1132.91,10422.8,394,4500.0
+2025-04-04,Central Library & Data Center,1005.65,9252.02,226,3200.0
+2025-04-04,Student Hostels & Mess,1088.42,10013.5,540,6000.0
+2025-04-05,Academic Block A,442.76,4073.41,40,4500.0
+2025-04-05,Central Library & Data Center,958.69,8819.92,137,3200.0
+2025-04-05,Student Hostels & Mess,1019.92,9383.25,380,6000.0
+2025-04-06,Academic Block A,427.31,3931.21,37,4500.0
+2025-04-06,Central Library & Data Center,877.39,8071.99,104,3200.0
+2025-04-06,Student Hostels & Mess,1047.59,9637.84,426,6000.0
+2025-04-07,Academic Block A,1174.44,10804.85,377,4500.0
+2025-04-07,Central Library & Data Center,955.35,8789.25,257,3200.0
+2025-04-07,Student Hostels & Mess,1165.17,10719.54,433,6000.0
+2025-04-08,Academic Block A,1175.61,10815.62,405,4500.0
+2025-04-08,Central Library & Data Center,1036.42,9535.04,202,3200.0
+2025-04-08,Student Hostels & Mess,1067.99,9825.49,526,6000.0
+2025-04-09,Academic Block A,1143.07,10516.21,387,4500.0
+2025-04-09,Central Library & Data Center,1026.8,9446.52,194,3200.0
+2025-04-09,Student Hostels & Mess,1111.11,10222.26,447,6000.0
+2025-04-10,Academic Block A,1164.82,10716.37,388,4500.0
+2025-04-10,Central Library & Data Center,992.57,9131.68,223,3200.0
+2025-04-10,Student Hostels & Mess,1073.19,9873.38,444,6000.0
+2025-04-11,Academic Block A,1196.64,11009.07,417,4500.0
+2025-04-11,Central Library & Data Center,1051.73,9675.9,189,3200.0
+2025-04-11,Student Hostels & Mess,1099.05,10111.25,530,6000.0
+2025-04-12,Academic Block A,503.85,4635.39,33,4500.0
+2025-04-12,Central Library & Data Center,970.71,8930.56,97,3200.0
+2025-04-12,Student Hostels & Mess,1064.99,9797.93,492,6000.0
+2025-04-13,Academic Block A,346.91,3191.55,34,4500.0
+2025-04-13,Central Library & Data Center,931.51,8569.86,95,3200.0
+2025-04-13,Student Hostels & Mess,1033.45,9507.75,438,6000.0
+2025-04-14,Academic Block A,1224.61,11266.38,458,4500.0
+2025-04-14,Central Library & Data Center,1039.31,9561.64,232,3200.0
+2025-04-14,Student Hostels & Mess,1091.6,10042.7,440,6000.0
+2025-04-15,Academic Block A,1166.2,10729.07,353,4500.0
+2025-04-15,Central Library & Data Center,1005.63,9251.81,254,3200.0
+2025-04-15,Student Hostels & Mess,1106.33,10178.21,494,6000.0
+2025-04-16,Academic Block A,1227.67,11294.58,353,4500.0
+2025-04-16,Central Library & Data Center,1078.27,9920.05,241,3200.0
+2025-04-16,Student Hostels & Mess,1096.39,10086.77,498,6000.0
+2025-04-17,Academic Block A,1108.24,10195.81,393,4500.0
+2025-04-17,Central Library & Data Center,1102.91,10146.79,184,3200.0
+2025-04-17,Student Hostels & Mess,1076.79,9906.43,438,6000.0
+2025-04-18,Academic Block A,2450.0,22540.0,369,4500.0
+2025-04-18,Central Library & Data Center,1010.65,9298.0,193,3200.0
+2025-04-18,Student Hostels & Mess,1087.1,10001.32,483,6000.0
+2025-04-19,Academic Block A,437.83,4028.05,60,4500.0
+2025-04-19,Central Library & Data Center,873.21,8033.55,125,3200.0
+2025-04-19,Student Hostels & Mess,1059.69,9749.13,513,6000.0
+2025-04-20,Academic Block A,361.43,3325.15,47,4500.0
+2025-04-20,Central Library & Data Center,961.49,8845.75,99,3200.0
+2025-04-20,Student Hostels & Mess,946.61,8708.85,509,6000.0
+2025-04-21,Academic Block A,1232.1,11335.33,414,4500.0
+2025-04-21,Central Library & Data Center,1007.1,9265.36,242,3200.0
+2025-04-21,Student Hostels & Mess,1143.62,10521.32,457,6000.0
+2025-04-22,Academic Block A,1221.54,11238.18,443,4500.0
+2025-04-22,Central Library & Data Center,1007.62,9270.09,254,3200.0
+2025-04-22,Student Hostels & Mess,1159.57,10668.04,556,6000.0
+2025-04-23,Academic Block A,1163.94,10708.24,350,4500.0
+2025-04-23,Central Library & Data Center,987.16,9081.84,219,3200.0
+2025-04-23,Student Hostels & Mess,1122.54,10327.37,433,6000.0
+2025-04-24,Academic Block A,1209.2,11124.6,409,4500.0
+2025-04-24,Central Library & Data Center,1014.86,9336.68,184,3200.0
+2025-04-24,Student Hostels & Mess,1086.61,9996.77,502,6000.0
+2025-04-25,Academic Block A,1199.86,11038.69,481,4500.0
+2025-04-25,Central Library & Data Center,1086.67,9997.39,221,3200.0
+2025-04-25,Student Hostels & Mess,1147.42,10556.23,458,6000.0
+2025-04-26,Academic Block A,418.89,3853.74,37,4500.0
+2025-04-26,Central Library & Data Center,879.19,8088.55,127,3200.0
+2025-04-26,Student Hostels & Mess,935.2,8603.82,476,6000.0
+2025-04-27,Academic Block A,438.08,4030.31,54,4500.0
+2025-04-27,Central Library & Data Center,949.78,8737.94,106,3200.0
+2025-04-27,Student Hostels & Mess,1014.84,9336.57,432,6000.0
+2025-04-28,Academic Block A,1223.86,11259.49,453,4500.0
+2025-04-28,Central Library & Data Center,1031.67,9491.38,249,3200.0
+2025-04-28,Student Hostels & Mess,1038.15,9550.97,553,6000.0
+2025-04-29,Academic Block A,1241.48,11421.62,391,4500.0
+2025-04-29,Central Library & Data Center,997.99,9181.47,243,3200.0
+2025-04-29,Student Hostels & Mess,1167.6,10741.93,457,6000.0
+2025-04-30,Academic Block A,1185.36,10905.34,446,4500.0
+2025-04-30,Central Library & Data Center,1053.51,9692.33,212,3200.0
+2025-04-30,Student Hostels & Mess,1128.2,10379.43,505,6000.0
+2025-05-01,Academic Block A,1184.49,10897.3,423,4500.0
+2025-05-01,Central Library & Data Center,1079.64,9932.68,217,3200.0
+2025-05-01,Student Hostels & Mess,1009.58,9288.1,528,6000.0
+2025-05-02,Academic Block A,1217.23,11198.51,364,4500.0
+2025-05-02,Central Library & Data Center,1011.08,9301.96,226,3200.0
+2025-05-02,Student Hostels & Mess,1114.46,10253.03,487,6000.0
+2025-05-03,Academic Block A,480.62,4421.72,60,4500.0
+2025-05-03,Central Library & Data Center,928.69,8543.95,140,3200.0
+2025-05-03,Student Hostels & Mess,1040.95,9576.73,422,6000.0
+2025-05-04,Academic Block A,521.7,4799.68,56,4500.0
+2025-05-04,Central Library & Data Center,867.73,7983.13,99,3200.0
+2025-05-04,Student Hostels & Mess,1003.89,9235.83,483,6000.0
+2025-05-05,Academic Block A,1106.78,10182.33,396,4500.0
+2025-05-05,Central Library & Data Center,1069.29,9837.49,225,3200.0
+2025-05-05,Student Hostels & Mess,1129.84,10394.57,523,6000.0
+2025-05-06,Academic Block A,1196.39,11006.76,460,4500.0
+2025-05-06,Central Library & Data Center,1043.71,9602.15,247,3200.0
+2025-05-06,Student Hostels & Mess,1161.96,10690.0,552,6000.0
+2025-05-07,Academic Block A,1196.58,11008.51,455,4500.0
+2025-05-07,Central Library & Data Center,1037.67,9546.61,210,3200.0
+2025-05-07,Student Hostels & Mess,1045.71,9620.54,448,6000.0
+2025-05-08,Academic Block A,1271.73,11699.87,389,4500.0
+2025-05-08,Central Library & Data Center,1014.53,9333.7,215,3200.0
+2025-05-08,Student Hostels & Mess,1080.56,9941.12,476,6000.0
+2025-05-09,Academic Block A,1131.25,10407.46,464,4500.0
+2025-05-09,Central Library & Data Center,991.43,9121.16,219,3200.0
+2025-05-09,Student Hostels & Mess,1036.03,9531.49,472,6000.0
+2025-05-10,Academic Block A,500.95,4608.7,38,4500.0
+2025-05-10,Central Library & Data Center,917.97,8445.32,115,3200.0
+2025-05-10,Student Hostels & Mess,999.19,9192.59,414,6000.0
+2025-05-11,Academic Block A,475.6,4375.52,40,4500.0
+2025-05-11,Central Library & Data Center,829.86,7634.72,127,3200.0
+2025-05-11,Student Hostels & Mess,972.81,8949.88,470,6000.0
+2025-05-12,Academic Block A,1128.54,10382.56,366,4500.0
+2025-05-12,Central Library & Data Center,1011.11,9302.18,230,3200.0
+2025-05-12,Student Hostels & Mess,1102.67,10144.6,444,6000.0
+2025-05-13,Academic Block A,1065.46,9802.21,437,4500.0
+2025-05-13,Central Library & Data Center,1022.78,9409.6,212,3200.0
+2025-05-13,Student Hostels & Mess,1142.59,10511.8,533,6000.0
+2025-05-14,Academic Block A,1103.8,10154.93,398,4500.0
+2025-05-14,Central Library & Data Center,1016.34,9350.37,242,3200.0
+2025-05-14,Student Hostels & Mess,1055.11,9706.99,523,6000.0
+2025-05-15,Academic Block A,1302.62,11984.1,490,4500.0
+2025-05-15,Central Library & Data Center,1026.19,9440.93,230,3200.0
+2025-05-15,Student Hostels & Mess,1107.29,10187.08,451,6000.0
+2025-05-16,Academic Block A,1180.32,10858.96,378,4500.0
+2025-05-16,Central Library & Data Center,981.4,9028.88,195,3200.0
+2025-05-16,Student Hostels & Mess,1157.98,10653.45,438,6000.0
+2025-05-17,Academic Block A,499.73,4597.56,57,4500.0
+2025-05-17,Central Library & Data Center,819.7,7541.26,138,3200.0
+2025-05-17,Student Hostels & Mess,1074.25,9883.14,442,6000.0
+2025-05-18,Academic Block A,343.95,3164.3,33,4500.0
+2025-05-18,Central Library & Data Center,908.18,8355.24,128,3200.0
+2025-05-18,Student Hostels & Mess,1014.22,9330.81,510,6000.0
+2025-05-19,Academic Block A,1123.48,10336.02,459,4500.0
+2025-05-19,Central Library & Data Center,1001.08,9209.91,213,3200.0
+2025-05-19,Student Hostels & Mess,1084.89,9981.01,451,6000.0
+2025-05-20,Academic Block A,1183.69,10889.91,484,4500.0
+2025-05-20,Central Library & Data Center,1021.73,9399.96,246,3200.0
+2025-05-20,Student Hostels & Mess,1100.57,10125.22,491,6000.0
+2025-05-21,Academic Block A,1191.26,10959.61,416,4500.0
+2025-05-21,Central Library & Data Center,1020.5,9388.61,230,3200.0
+2025-05-21,Student Hostels & Mess,1050.48,9664.44,454,6000.0
+2025-05-22,Academic Block A,1218.9,11213.91,445,4500.0
+2025-05-22,Central Library & Data Center,1024.8,9428.17,225,3200.0
+2025-05-22,Student Hostels & Mess,1101.83,10136.84,474,6000.0
+2025-05-23,Academic Block A,1111.68,10227.44,351,4500.0
+2025-05-23,Central Library & Data Center,1077.35,9911.64,180,3200.0
+2025-05-23,Student Hostels & Mess,1078.46,9921.83,549,6000.0
+2025-05-24,Academic Block A,484.45,4456.98,32,4500.0
+2025-05-24,Central Library & Data Center,852.78,7845.61,94,3200.0
+2025-05-24,Student Hostels & Mess,1048.65,9647.6,416,6000.0
+2025-05-25,Academic Block A,493.35,4538.82,31,4500.0
+2025-05-25,Central Library & Data Center,834.39,7676.36,133,3200.0
+2025-05-25,Student Hostels & Mess,1010.21,9293.93,499,6000.0
+2025-05-26,Academic Block A,1198.4,11025.32,408,4500.0
+2025-05-26,Central Library & Data Center,1027.84,9456.11,260,3200.0
+2025-05-26,Student Hostels & Mess,1105.38,10169.5,533,6000.0
+2025-05-27,Academic Block A,1283.8,11810.99,452,4500.0
+2025-05-27,Central Library & Data Center,1044.58,9610.13,252,3200.0
+2025-05-27,Student Hostels & Mess,1106.2,10177.07,423,6000.0
+2025-05-28,Academic Block A,1178.54,10842.56,378,4500.0
+2025-05-28,Central Library & Data Center,1008.22,9275.61,254,3200.0
+2025-05-28,Student Hostels & Mess,1068.24,9827.77,489,6000.0
+2025-05-29,Academic Block A,1113.49,10244.07,366,4500.0
+2025-05-29,Central Library & Data Center,1040.97,9576.9,216,3200.0
+2025-05-29,Student Hostels & Mess,1140.53,10492.92,506,6000.0
+2025-05-30,Academic Block A,1208.08,11114.38,466,4500.0
+2025-05-30,Central Library & Data Center,1073.03,9871.85,232,3200.0
+2025-05-30,Student Hostels & Mess,1162.19,10692.13,557,6000.0
+2025-05-31,Academic Block A,430.13,3957.23,57,4500.0
+2025-05-31,Central Library & Data Center,923.68,8497.86,135,3200.0
+2025-05-31,Student Hostels & Mess,1010.49,9296.51,415,6000.0
+2025-06-01,Academic Block A,365.94,3366.6,48,4500.0
+2025-06-01,Central Library & Data Center,716.05,6587.7,129,3200.0
+2025-06-01,Student Hostels & Mess,780.13,7177.23,390,6000.0
+2025-06-02,Academic Block A,1029.36,9470.1,388,4500.0
+2025-06-02,Central Library & Data Center,809.89,7450.96,233,3200.0
+2025-06-02,Student Hostels & Mess,980.85,9023.84,488,6000.0
+2025-06-03,Academic Block A,955.3,8788.71,405,4500.0
+2025-06-03,Central Library & Data Center,854.63,7862.57,260,3200.0
+2025-06-03,Student Hostels & Mess,836.83,7698.86,528,6000.0
+2025-06-04,Academic Block A,985.86,9069.88,422,4500.0
+2025-06-04,Central Library & Data Center,804.94,7405.4,252,3200.0
+2025-06-04,Student Hostels & Mess,855.76,7873.02,480,6000.0
+2025-06-05,Academic Block A,888.87,8177.65,453,4500.0
+2025-06-05,Central Library & Data Center,789.66,7264.89,182,3200.0
+2025-06-05,Student Hostels & Mess,881.58,8110.58,527,6000.0
+2025-06-06,Academic Block A,920.05,8464.46,447,4500.0
+2025-06-06,Central Library & Data Center,864.28,7951.42,191,3200.0
+2025-06-06,Student Hostels & Mess,868.51,7990.33,468,6000.0
+2025-06-07,Academic Block A,345.86,3181.93,58,4500.0
+2025-06-07,Central Library & Data Center,754.31,6939.67,138,3200.0
+2025-06-07,Student Hostels & Mess,876.81,8066.61,426,6000.0
+2025-06-08,Academic Block A,388.12,3570.73,46,4500.0
+2025-06-08,Central Library & Data Center,772.98,7111.46,112,3200.0
+2025-06-08,Student Hostels & Mess,869.91,8003.15,404,6000.0
+2025-06-09,Academic Block A,1030.56,9481.15,438,4500.0
+2025-06-09,Central Library & Data Center,877.05,8068.82,205,3200.0
+2025-06-09,Student Hostels & Mess,938.75,8636.46,466,6000.0
+2025-06-10,Academic Block A,973.66,8957.64,494,4500.0
+2025-06-10,Central Library & Data Center,820.37,7547.38,202,3200.0
+2025-06-10,Student Hostels & Mess,847.56,7797.55,554,6000.0
+2025-06-11,Academic Block A,1086.27,9993.67,363,4500.0
+2025-06-11,Central Library & Data Center,847.13,7793.56,227,3200.0
+2025-06-11,Student Hostels & Mess,874.11,8041.8,491,6000.0
+2025-06-12,Academic Block A,1019.81,9382.23,495,4500.0
+2025-06-12,Central Library & Data Center,833.99,7672.69,238,3200.0
+2025-06-12,Student Hostels & Mess,841.39,7740.82,464,6000.0
+2025-06-13,Academic Block A,991.55,9122.23,447,4500.0
+2025-06-13,Central Library & Data Center,838.79,7716.87,234,3200.0
+2025-06-13,Student Hostels & Mess,938.13,8630.82,527,6000.0
+2025-06-14,Academic Block A,417.02,3836.62,33,4500.0
+2025-06-14,Central Library & Data Center,743.93,6844.2,118,3200.0
+2025-06-14,Student Hostels & Mess,885.61,8147.58,395,6000.0
+2025-06-15,Academic Block A,394.62,3630.53,42,4500.0
+2025-06-15,Central Library & Data Center,693.92,6384.03,124,3200.0
+2025-06-15,Student Hostels & Mess,859.82,7910.35,413,6000.0
+2025-06-16,Academic Block A,1001.1,9210.15,472,4500.0
+2025-06-16,Central Library & Data Center,837.81,7707.86,218,3200.0
+2025-06-16,Student Hostels & Mess,1001.51,9213.88,540,6000.0
+2025-06-17,Academic Block A,939.73,8645.55,359,4500.0
+2025-06-17,Central Library & Data Center,828.41,7621.38,184,3200.0
+2025-06-17,Student Hostels & Mess,871.02,8013.37,484,6000.0
+2025-06-18,Academic Block A,950.09,8740.84,491,4500.0
+2025-06-18,Central Library & Data Center,827.95,7617.11,209,3200.0
+2025-06-18,Student Hostels & Mess,915.78,8425.2,456,6000.0
+2025-06-19,Academic Block A,1002.48,9222.83,422,4500.0
+2025-06-19,Central Library & Data Center,829.05,7627.24,247,3200.0
+2025-06-19,Student Hostels & Mess,862.27,7932.92,559,6000.0
+2025-06-20,Academic Block A,994.34,9147.91,388,4500.0
+2025-06-20,Central Library & Data Center,790.42,7271.9,235,3200.0
+2025-06-20,Student Hostels & Mess,907.34,8347.53,481,6000.0
+2025-06-21,Academic Block A,398.76,3668.63,42,4500.0
+2025-06-21,Central Library & Data Center,729.92,6715.3,118,3200.0
+2025-06-21,Student Hostels & Mess,810.02,7452.22,442,6000.0
+2025-06-22,Academic Block A,384.82,3540.31,43,4500.0
+2025-06-22,Central Library & Data Center,719.29,6617.46,99,3200.0
+2025-06-22,Student Hostels & Mess,831.27,7647.7,382,6000.0
+2025-06-23,Academic Block A,946.45,8707.33,469,4500.0
+2025-06-23,Central Library & Data Center,821.52,7557.99,226,3200.0
+2025-06-23,Student Hostels & Mess,890.88,8196.05,428,6000.0
+2025-06-24,Academic Block A,952.2,8760.21,431,4500.0
+2025-06-24,Central Library & Data Center,801.19,7370.97,241,3200.0
+2025-06-24,Student Hostels & Mess,987.03,9080.65,544,6000.0
+2025-06-25,Academic Block A,939.03,8639.1,438,4500.0
+2025-06-25,Central Library & Data Center,882.83,8121.99,190,3200.0
+2025-06-25,Student Hostels & Mess,969.44,8918.8,524,6000.0
+2025-06-26,Academic Block A,901.78,8296.35,378,4500.0
+2025-06-26,Central Library & Data Center,814.92,7497.25,188,3200.0
+2025-06-26,Student Hostels & Mess,894.84,8232.52,444,6000.0
+2025-06-27,Academic Block A,960.56,8837.14,354,4500.0
+2025-06-27,Central Library & Data Center,809.22,7444.81,258,3200.0
+2025-06-27,Student Hostels & Mess,936.59,8616.66,457,6000.0
+2025-06-28,Academic Block A,396.78,3650.42,55,4500.0
+2025-06-28,Central Library & Data Center,705.88,6494.09,107,3200.0
+2025-06-28,Student Hostels & Mess,815.7,7504.4,460,6000.0
+2025-06-29,Academic Block A,367.07,3377.05,47,4500.0
+2025-06-29,Central Library & Data Center,629.98,5795.78,118,3200.0
+2025-06-29,Student Hostels & Mess,801.59,7374.64,494,6000.0
+2025-06-30,Academic Block A,946.98,8712.17,447,4500.0
+2025-06-30,Central Library & Data Center,867.72,7983.07,219,3200.0
+2025-06-30,Student Hostels & Mess,832.02,7654.62,425,6000.0
+2025-07-01,Academic Block A,923.31,8494.5,496,4500.0
+2025-07-01,Central Library & Data Center,767.65,7062.39,238,3200.0
+2025-07-01,Student Hostels & Mess,857.87,7892.41,478,6000.0
+2025-07-02,Academic Block A,881.6,8110.69,394,4500.0
+2025-07-02,Central Library & Data Center,750.49,6904.51,232,3200.0
+2025-07-02,Student Hostels & Mess,876.34,8062.34,426,6000.0
+2025-07-03,Academic Block A,971.43,8937.12,482,4500.0
+2025-07-03,Central Library & Data Center,767.89,7064.59,209,3200.0
+2025-07-03,Student Hostels & Mess,802.66,7384.45,458,6000.0
+2025-07-04,Academic Block A,919.09,8455.63,426,4500.0
+2025-07-04,Central Library & Data Center,767.2,7058.24,191,3200.0
+2025-07-04,Student Hostels & Mess,843.64,7761.52,436,6000.0
+2025-07-05,Academic Block A,334.59,3078.22,37,4500.0
+2025-07-05,Central Library & Data Center,706.6,6500.71,113,3200.0
+2025-07-05,Student Hostels & Mess,724.99,6669.91,488,6000.0
+2025-07-06,Academic Block A,318.65,2931.58,59,4500.0
+2025-07-06,Central Library & Data Center,690.57,6353.29,96,3200.0
+2025-07-06,Student Hostels & Mess,800.52,7364.79,442,6000.0
+2025-07-07,Academic Block A,904.66,8322.85,409,4500.0
+2025-07-07,Central Library & Data Center,795.72,7320.58,201,3200.0
+2025-07-07,Student Hostels & Mess,807.84,7432.17,515,6000.0
+2025-07-08,Academic Block A,924.57,8506.03,494,4500.0
+2025-07-08,Central Library & Data Center,760.89,7000.16,189,3200.0
+2025-07-08,Student Hostels & Mess,808.18,7435.28,539,6000.0
+2025-07-09,Academic Block A,900.63,8285.79,399,4500.0
+2025-07-09,Central Library & Data Center,839.61,7724.43,231,3200.0
+2025-07-09,Student Hostels & Mess,806.41,7418.93,544,6000.0
+2025-07-10,Academic Block A,874.19,8042.56,382,4500.0
+2025-07-10,Central Library & Data Center,773.94,7120.28,185,3200.0
+2025-07-10,Student Hostels & Mess,881.46,8109.47,477,6000.0
+2025-07-11,Academic Block A,881.94,8113.82,375,4500.0
+2025-07-11,Central Library & Data Center,775.61,7135.61,183,3200.0
+2025-07-11,Student Hostels & Mess,787.0,7240.42,518,6000.0
+2025-07-12,Academic Block A,277.16,2549.83,52,4500.0
+2025-07-12,Central Library & Data Center,1680.0,15456.0,118,3200.0
+2025-07-12,Student Hostels & Mess,738.15,6790.99,509,6000.0
+2025-07-13,Academic Block A,364.38,3352.26,44,4500.0
+2025-07-13,Central Library & Data Center,717.66,6602.43,116,3200.0
+2025-07-13,Student Hostels & Mess,831.42,7649.08,460,6000.0
+2025-07-14,Academic Block A,921.89,8481.37,450,4500.0
+2025-07-14,Central Library & Data Center,786.3,7233.95,238,3200.0
+2025-07-14,Student Hostels & Mess,762.13,7011.59,477,6000.0
+2025-07-15,Academic Block A,877.0,8068.4,473,4500.0
+2025-07-15,Central Library & Data Center,807.26,7426.84,214,3200.0
+2025-07-15,Student Hostels & Mess,870.4,8007.72,483,6000.0
+2025-07-16,Academic Block A,920.62,8469.75,367,4500.0
+2025-07-16,Central Library & Data Center,799.7,7357.2,194,3200.0
+2025-07-16,Student Hostels & Mess,936.62,8616.92,479,6000.0
+2025-07-17,Academic Block A,827.96,7617.24,494,4500.0
+2025-07-17,Central Library & Data Center,827.8,7615.72,250,3200.0
+2025-07-17,Student Hostels & Mess,736.75,6778.08,550,6000.0
+2025-07-18,Academic Block A,873.25,8033.91,373,4500.0
+2025-07-18,Central Library & Data Center,807.12,7425.47,239,3200.0
+2025-07-18,Student Hostels & Mess,901.52,8294.03,503,6000.0
+2025-07-19,Academic Block A,400.05,3680.43,33,4500.0
+2025-07-19,Central Library & Data Center,639.4,5882.45,111,3200.0
+2025-07-19,Student Hostels & Mess,791.66,7283.24,496,6000.0
+2025-07-20,Academic Block A,267.1,2457.28,42,4500.0
+2025-07-20,Central Library & Data Center,742.96,6835.23,106,3200.0
+2025-07-20,Student Hostels & Mess,760.91,7000.35,474,6000.0
+2025-07-21,Academic Block A,793.43,7299.51,381,4500.0
+2025-07-21,Central Library & Data Center,815.45,7502.18,220,3200.0
+2025-07-21,Student Hostels & Mess,865.68,7964.29,555,6000.0
+2025-07-22,Academic Block A,944.79,8692.1,390,4500.0
+2025-07-22,Central Library & Data Center,804.38,7400.3,196,3200.0
+2025-07-22,Student Hostels & Mess,842.51,7751.1,499,6000.0
+2025-07-23,Academic Block A,861.47,7925.52,403,4500.0
+2025-07-23,Central Library & Data Center,824.1,7581.74,253,3200.0
+2025-07-23,Student Hostels & Mess,871.09,8014.07,516,6000.0
+2025-07-24,Academic Block A,863.07,7940.2,426,4500.0
+2025-07-24,Central Library & Data Center,780.13,7177.19,205,3200.0
+2025-07-24,Student Hostels & Mess,795.94,7322.6,522,6000.0
+2025-07-25,Academic Block A,889.85,8186.62,439,4500.0
+2025-07-25,Central Library & Data Center,808.67,7439.73,223,3200.0
+2025-07-25,Student Hostels & Mess,860.93,7920.58,468,6000.0
+2025-07-26,Academic Block A,341.98,3146.18,38,4500.0
+2025-07-26,Central Library & Data Center,710.41,6535.76,128,3200.0
+2025-07-26,Student Hostels & Mess,717.65,6602.38,387,6000.0
+2025-07-27,Academic Block A,371.25,3415.51,37,4500.0
+2025-07-27,Central Library & Data Center,710.86,6539.87,136,3200.0
+2025-07-27,Student Hostels & Mess,804.41,7400.54,506,6000.0
+2025-07-28,Academic Block A,961.78,8848.4,476,4500.0
+2025-07-28,Central Library & Data Center,784.93,7221.34,182,3200.0
+2025-07-28,Student Hostels & Mess,903.43,8311.52,431,6000.0
+2025-07-29,Academic Block A,881.79,8112.44,436,4500.0
+2025-07-29,Central Library & Data Center,770.05,7084.47,198,3200.0
+2025-07-29,Student Hostels & Mess,922.55,8487.43,474,6000.0
+2025-07-30,Academic Block A,977.72,8995.01,468,4500.0
+2025-07-30,Central Library & Data Center,772.88,7110.49,232,3200.0
+2025-07-30,Student Hostels & Mess,835.03,7682.24,501,6000.0
+2025-07-31,Academic Block A,998.9,9189.9,495,4500.0
+2025-07-31,Central Library & Data Center,739.66,6804.9,235,3200.0
+2025-07-31,Student Hostels & Mess,883.94,8132.23,524,6000.0
+2025-08-01,Academic Block A,864.55,7953.84,384,4500.0
+2025-08-01,Central Library & Data Center,778.59,7163.06,240,3200.0
+2025-08-01,Student Hostels & Mess,825.7,7596.49,513,6000.0
+2025-08-02,Academic Block A,257.41,2368.21,50,4500.0
+2025-08-02,Central Library & Data Center,711.99,6550.27,109,3200.0
+2025-08-02,Student Hostels & Mess,813.93,7488.12,416,6000.0
+2025-08-03,Academic Block A,277.34,2551.53,49,4500.0
+2025-08-03,Central Library & Data Center,640.07,5888.63,113,3200.0
+2025-08-03,Student Hostels & Mess,817.09,7517.24,484,6000.0
+2025-08-04,Academic Block A,1035.08,9522.73,466,4500.0
+2025-08-04,Central Library & Data Center,826.06,7599.76,258,3200.0
+2025-08-04,Student Hostels & Mess,774.26,7123.18,425,6000.0
+2025-08-05,Academic Block A,862.53,7935.28,480,4500.0
+2025-08-05,Central Library & Data Center,738.11,6790.6,197,3200.0
+2025-08-05,Student Hostels & Mess,891.07,8197.86,518,6000.0
+2025-08-06,Academic Block A,937.47,8624.68,375,4500.0
+2025-08-06,Central Library & Data Center,793.82,7303.15,221,3200.0
+2025-08-06,Student Hostels & Mess,846.43,7787.13,433,6000.0
+2025-08-07,Academic Block A,901.35,8292.42,411,4500.0
+2025-08-07,Central Library & Data Center,814.18,7490.47,239,3200.0
+2025-08-07,Student Hostels & Mess,900.4,8283.7,503,6000.0
+2025-08-08,Academic Block A,828.44,7621.65,479,4500.0
+2025-08-08,Central Library & Data Center,787.05,7240.83,207,3200.0
+2025-08-08,Student Hostels & Mess,807.46,7428.59,485,6000.0
+2025-08-09,Academic Block A,409.75,3769.74,33,4500.0
+2025-08-09,Central Library & Data Center,730.13,6717.18,134,3200.0
+2025-08-09,Student Hostels & Mess,748.32,6884.56,389,6000.0
+2025-08-10,Academic Block A,298.29,2744.3,32,4500.0
+2025-08-10,Central Library & Data Center,626.44,5763.25,118,3200.0
+2025-08-10,Student Hostels & Mess,752.69,6924.74,389,6000.0
+2025-08-11,Academic Block A,862.59,7935.78,482,4500.0
+2025-08-11,Central Library & Data Center,791.72,7283.86,199,3200.0
+2025-08-11,Student Hostels & Mess,859.51,7907.5,476,6000.0
+2025-08-12,Academic Block A,907.68,8350.67,413,4500.0
+2025-08-12,Central Library & Data Center,740.1,6808.97,216,3200.0
+2025-08-12,Student Hostels & Mess,775.5,7134.56,468,6000.0
+2025-08-13,Academic Block A,919.69,8461.12,460,4500.0
+2025-08-13,Central Library & Data Center,791.9,7285.49,258,3200.0
+2025-08-13,Student Hostels & Mess,899.36,8274.11,533,6000.0
+2025-08-14,Academic Block A,1006.35,9258.43,427,4500.0
+2025-08-14,Central Library & Data Center,780.45,7180.15,199,3200.0
+2025-08-14,Student Hostels & Mess,808.5,7438.18,445,6000.0
+2025-08-15,Academic Block A,935.47,8606.31,418,4500.0
+2025-08-15,Central Library & Data Center,776.58,7144.52,212,3200.0
+2025-08-15,Student Hostels & Mess,812.45,7474.54,439,6000.0
+2025-08-16,Academic Block A,332.92,3062.85,50,4500.0
+2025-08-16,Central Library & Data Center,743.15,6836.98,123,3200.0
+2025-08-16,Student Hostels & Mess,770.47,7088.37,429,6000.0
+2025-08-17,Academic Block A,335.55,3087.05,53,4500.0
+2025-08-17,Central Library & Data Center,696.0,6403.23,136,3200.0
+2025-08-17,Student Hostels & Mess,694.14,6386.07,417,6000.0
+2025-08-18,Academic Block A,915.68,8424.3,433,4500.0
+2025-08-18,Central Library & Data Center,757.02,6964.58,180,3200.0
+2025-08-18,Student Hostels & Mess,856.22,7877.2,427,6000.0
+2025-08-19,Academic Block A,881.87,8113.21,435,4500.0
+2025-08-19,Central Library & Data Center,761.18,7002.9,226,3200.0
+2025-08-19,Student Hostels & Mess,870.8,8011.38,533,6000.0
+2025-08-20,Academic Block A,924.81,8508.21,494,4500.0
+2025-08-20,Central Library & Data Center,784.51,7217.52,255,3200.0
+2025-08-20,Student Hostels & Mess,842.67,7752.57,491,6000.0
+2025-08-21,Academic Block A,930.31,8558.86,491,4500.0
+2025-08-21,Central Library & Data Center,783.23,7205.73,232,3200.0
+2025-08-21,Student Hostels & Mess,869.57,8000.02,482,6000.0
+2025-08-22,Academic Block A,984.19,9054.56,422,4500.0
+2025-08-22,Central Library & Data Center,768.96,7074.48,210,3200.0
+2025-08-22,Student Hostels & Mess,844.25,7767.08,487,6000.0
+2025-08-23,Academic Block A,387.54,3565.4,33,4500.0
+2025-08-23,Central Library & Data Center,704.83,6484.41,127,3200.0
+2025-08-23,Student Hostels & Mess,815.06,7498.54,520,6000.0
+2025-08-24,Academic Block A,326.25,3001.51,38,4500.0
+2025-08-24,Central Library & Data Center,707.7,6510.81,90,3200.0
+2025-08-24,Student Hostels & Mess,763.34,7022.76,467,6000.0
+2025-08-25,Academic Block A,946.58,8708.55,492,4500.0
+2025-08-25,Central Library & Data Center,738.96,6798.39,244,3200.0
+2025-08-25,Student Hostels & Mess,784.88,7220.89,479,6000.0
+2025-08-26,Academic Block A,828.53,7622.49,442,4500.0
+2025-08-26,Central Library & Data Center,732.42,6738.25,214,3200.0
+2025-08-26,Student Hostels & Mess,823.86,7579.5,521,6000.0
+2025-08-27,Academic Block A,910.14,8373.25,459,4500.0
+2025-08-27,Central Library & Data Center,758.0,6973.57,257,3200.0
+2025-08-27,Student Hostels & Mess,808.47,7437.96,422,6000.0
+2025-08-28,Academic Block A,1003.86,9235.51,434,4500.0
+2025-08-28,Central Library & Data Center,780.77,7183.12,249,3200.0
+2025-08-28,Student Hostels & Mess,881.04,8105.61,536,6000.0
+2025-08-29,Academic Block A,906.53,8340.1,393,4500.0
+2025-08-29,Central Library & Data Center,743.56,6840.74,194,3200.0
+2025-08-29,Student Hostels & Mess,876.9,8067.46,465,6000.0
+2025-08-30,Academic Block A,234.14,2154.12,47,4500.0
+2025-08-30,Central Library & Data Center,689.38,6342.32,110,3200.0
+2025-08-30,Student Hostels & Mess,851.83,7836.85,486,6000.0
+2025-08-31,Academic Block A,321.13,2954.39,40,4500.0
+2025-08-31,Central Library & Data Center,695.76,6401.02,140,3200.0
+2025-08-31,Student Hostels & Mess,748.84,6889.34,504,6000.0
+2025-09-01,Academic Block A,956.37,8798.6,466,4500.0
+2025-09-01,Central Library & Data Center,806.74,7422.03,207,3200.0
+2025-09-01,Student Hostels & Mess,853.46,7851.8,454,6000.0
+2025-09-02,Academic Block A,931.7,8571.62,495,4500.0
+2025-09-02,Central Library & Data Center,841.3,7740.0,181,3200.0
+2025-09-02,Student Hostels & Mess,873.47,8035.9,508,6000.0
+2025-09-03,Academic Block A,897.59,8257.86,443,4500.0
+2025-09-03,Central Library & Data Center,852.9,7846.69,253,3200.0
+2025-09-03,Student Hostels & Mess,858.87,7901.57,458,6000.0
+2025-09-04,Academic Block A,1052.1,9679.3,405,4500.0
+2025-09-04,Central Library & Data Center,843.07,7756.23,221,3200.0
+2025-09-04,Student Hostels & Mess,864.7,7955.2,473,6000.0
+2025-09-05,Academic Block A,962.23,8852.56,478,4500.0
+2025-09-05,Central Library & Data Center,850.71,7826.53,226,3200.0
+2025-09-05,Student Hostels & Mess,806.52,7420.02,542,6000.0
+2025-09-06,Academic Block A,471.57,4338.46,55,4500.0
+2025-09-06,Central Library & Data Center,746.79,6870.48,98,3200.0
+2025-09-06,Student Hostels & Mess,794.02,7305.02,500,6000.0
+2025-09-07,Academic Block A,378.49,3482.11,58,4500.0
+2025-09-07,Central Library & Data Center,739.7,6805.2,138,3200.0
+2025-09-07,Student Hostels & Mess,847.02,7792.55,470,6000.0
+2025-09-08,Academic Block A,936.67,8617.38,368,4500.0
+2025-09-08,Central Library & Data Center,863.25,7941.88,239,3200.0
+2025-09-08,Student Hostels & Mess,938.75,8636.53,488,6000.0
+2025-09-09,Academic Block A,994.64,9150.69,398,4500.0
+2025-09-09,Central Library & Data Center,855.41,7869.8,200,3200.0
+2025-09-09,Student Hostels & Mess,914.15,8410.2,456,6000.0
+2025-09-10,Academic Block A,1024.11,9421.78,360,4500.0
+2025-09-10,Central Library & Data Center,885.1,8142.94,189,3200.0
+2025-09-10,Student Hostels & Mess,926.97,8528.12,421,6000.0
+2025-09-11,Academic Block A,908.15,8355.0,413,4500.0
+2025-09-11,Central Library & Data Center,848.84,7809.29,246,3200.0
+2025-09-11,Student Hostels & Mess,866.71,7973.71,461,6000.0
+2025-09-12,Academic Block A,1044.5,9609.37,373,4500.0
+2025-09-12,Central Library & Data Center,819.79,7542.09,239,3200.0
+2025-09-12,Student Hostels & Mess,913.2,8401.43,521,6000.0
+2025-09-13,Academic Block A,411.18,3782.88,39,4500.0
+2025-09-13,Central Library & Data Center,739.47,6803.16,125,3200.0
+2025-09-13,Student Hostels & Mess,846.46,7787.46,476,6000.0
+2025-09-14,Academic Block A,283.58,2608.96,30,4500.0
+2025-09-14,Central Library & Data Center,781.83,7192.82,95,3200.0
+2025-09-14,Student Hostels & Mess,812.94,7479.02,428,6000.0
+2025-09-15,Academic Block A,960.11,8833.02,409,4500.0
+2025-09-15,Central Library & Data Center,843.41,7759.4,251,3200.0
+2025-09-15,Student Hostels & Mess,835.36,7685.35,469,6000.0
+2025-09-16,Academic Block A,919.71,8461.35,407,4500.0
+2025-09-16,Central Library & Data Center,858.39,7897.18,182,3200.0
+2025-09-16,Student Hostels & Mess,837.62,7706.07,454,6000.0
+2025-09-17,Academic Block A,909.17,8364.33,447,4500.0
+2025-09-17,Central Library & Data Center,777.87,7156.37,201,3200.0
+2025-09-17,Student Hostels & Mess,872.44,8026.47,463,6000.0
+2025-09-18,Academic Block A,1028.0,9457.64,404,4500.0
+2025-09-18,Central Library & Data Center,857.23,7886.54,259,3200.0
+2025-09-18,Student Hostels & Mess,835.36,7685.31,474,6000.0
+2025-09-19,Academic Block A,887.01,8160.53,493,4500.0
+2025-09-19,Central Library & Data Center,835.8,7689.35,209,3200.0
+2025-09-19,Student Hostels & Mess,912.94,8399.09,442,6000.0
+2025-09-20,Academic Block A,307.85,2832.18,34,4500.0
+2025-09-20,Central Library & Data Center,724.91,6669.15,109,3200.0
+2025-09-20,Student Hostels & Mess,839.32,7721.74,500,6000.0
+2025-09-21,Academic Block A,392.1,3607.35,59,4500.0
+2025-09-21,Central Library & Data Center,803.98,7396.61,107,3200.0
+2025-09-21,Student Hostels & Mess,852.13,7839.62,411,6000.0
+2025-09-22,Academic Block A,975.01,8970.09,387,4500.0
+2025-09-22,Central Library & Data Center,831.83,7652.8,193,3200.0
+2025-09-22,Student Hostels & Mess,885.97,8150.9,485,6000.0
+2025-09-23,Academic Block A,950.65,8745.96,454,4500.0
+2025-09-23,Central Library & Data Center,781.31,7188.09,231,3200.0
+2025-09-23,Student Hostels & Mess,917.92,8444.86,474,6000.0
+2025-09-24,Academic Block A,989.21,9100.69,492,4500.0
+2025-09-24,Central Library & Data Center,820.48,7548.46,239,3200.0
+2025-09-24,Student Hostels & Mess,882.21,8116.3,468,6000.0
+2025-09-25,Academic Block A,989.88,9106.88,391,4500.0
+2025-09-25,Central Library & Data Center,902.16,8299.85,209,3200.0
+2025-09-25,Student Hostels & Mess,924.83,8508.4,553,6000.0
+2025-09-26,Academic Block A,952.74,8765.19,363,4500.0
+2025-09-26,Central Library & Data Center,822.9,7570.65,252,3200.0
+2025-09-26,Student Hostels & Mess,880.24,8098.17,439,6000.0
+2025-09-27,Academic Block A,332.53,3059.28,47,4500.0
+2025-09-27,Central Library & Data Center,766.98,7056.19,114,3200.0
+2025-09-27,Student Hostels & Mess,855.39,7869.57,433,6000.0
+2025-09-28,Academic Block A,398.06,3662.12,30,4500.0
+2025-09-28,Central Library & Data Center,686.47,6315.51,135,3200.0
+2025-09-28,Student Hostels & Mess,847.88,7800.47,513,6000.0
+2025-09-29,Academic Block A,963.8,8866.93,374,4500.0
+2025-09-29,Central Library & Data Center,812.41,7474.21,200,3200.0
+2025-09-29,Student Hostels & Mess,911.66,8387.29,444,6000.0
+2025-09-30,Academic Block A,964.14,8870.07,361,4500.0
+2025-09-30,Central Library & Data Center,834.34,7675.89,211,3200.0
+2025-09-30,Student Hostels & Mess,907.27,8346.93,450,6000.0
+2025-10-01,Academic Block A,925.37,8513.42,427,4500.0
+2025-10-01,Central Library & Data Center,825.19,7591.7,242,3200.0
+2025-10-01,Student Hostels & Mess,922.9,8490.72,553,6000.0
+2025-10-02,Academic Block A,894.46,8229.04,380,4500.0
+2025-10-02,Central Library & Data Center,874.09,8041.66,184,3200.0
+2025-10-02,Student Hostels & Mess,889.06,8179.37,549,6000.0
+2025-10-03,Academic Block A,1036.08,9531.96,475,4500.0
+2025-10-03,Central Library & Data Center,819.49,7539.31,252,3200.0
+2025-10-03,Student Hostels & Mess,881.16,8106.7,534,6000.0
+2025-10-04,Academic Block A,381.68,3511.49,30,4500.0
+2025-10-04,Central Library & Data Center,706.73,6501.89,93,3200.0
+2025-10-04,Student Hostels & Mess,785.43,7225.91,480,6000.0
+2025-10-05,Academic Block A,385.17,3543.6,36,4500.0
+2025-10-05,Central Library & Data Center,716.62,6592.86,125,3200.0
+2025-10-05,Student Hostels & Mess,816.11,7508.18,503,6000.0
+2025-10-06,Academic Block A,990.18,9109.63,465,4500.0
+2025-10-06,Central Library & Data Center,858.3,7896.39,242,3200.0
+2025-10-06,Student Hostels & Mess,842.92,7754.91,426,6000.0
+2025-10-07,Academic Block A,958.89,8821.75,441,4500.0
+2025-10-07,Central Library & Data Center,796.89,7331.4,184,3200.0
+2025-10-07,Student Hostels & Mess,894.61,8230.37,549,6000.0
+2025-10-08,Academic Block A,958.53,8818.47,428,4500.0
+2025-10-08,Central Library & Data Center,805.01,7406.05,200,3200.0
+2025-10-08,Student Hostels & Mess,875.75,8056.9,552,6000.0
+2025-10-09,Academic Block A,986.63,9077.01,414,4500.0
+2025-10-09,Central Library & Data Center,864.46,7953.01,232,3200.0
+2025-10-09,Student Hostels & Mess,877.85,8076.21,501,6000.0
+2025-10-10,Academic Block A,906.54,8340.19,488,4500.0
+2025-10-10,Central Library & Data Center,813.53,7484.5,242,3200.0
+2025-10-10,Student Hostels & Mess,827.89,7616.56,536,6000.0
+2025-10-11,Academic Block A,356.78,3282.35,55,4500.0
+2025-10-11,Central Library & Data Center,756.37,6958.61,124,3200.0
+2025-10-11,Student Hostels & Mess,786.87,7239.19,421,6000.0
+2025-10-12,Academic Block A,369.82,3402.34,38,4500.0
+2025-10-12,Central Library & Data Center,740.61,6813.64,106,3200.0
+2025-10-12,Student Hostels & Mess,855.0,7866.02,509,6000.0
+2025-10-13,Academic Block A,976.5,8983.79,409,4500.0
+2025-10-13,Central Library & Data Center,830.47,7640.29,237,3200.0
+2025-10-13,Student Hostels & Mess,882.41,8118.17,440,6000.0
+2025-10-14,Academic Block A,968.17,8907.2,357,4500.0
+2025-10-14,Central Library & Data Center,875.75,8056.93,238,3200.0
+2025-10-14,Student Hostels & Mess,837.22,7702.45,506,6000.0
+2025-10-15,Academic Block A,956.59,8800.65,437,4500.0
+2025-10-15,Central Library & Data Center,835.5,7686.57,187,3200.0
+2025-10-15,Student Hostels & Mess,907.97,8353.31,496,6000.0
+2025-10-16,Academic Block A,1018.19,9367.33,366,4500.0
+2025-10-16,Central Library & Data Center,853.66,7853.68,184,3200.0
+2025-10-16,Student Hostels & Mess,800.24,7362.24,529,6000.0
+2025-10-17,Academic Block A,977.36,8991.71,488,4500.0
+2025-10-17,Central Library & Data Center,818.07,7526.27,237,3200.0
+2025-10-17,Student Hostels & Mess,945.38,8697.51,424,6000.0
+2025-10-18,Academic Block A,413.48,3804.05,37,4500.0
+2025-10-18,Central Library & Data Center,740.05,6808.48,99,3200.0
+2025-10-18,Student Hostels & Mess,860.69,7918.3,428,6000.0
+2025-10-19,Academic Block A,416.0,3827.22,33,4500.0
+2025-10-19,Central Library & Data Center,774.25,7123.06,130,3200.0
+2025-10-19,Student Hostels & Mess,858.65,7899.57,501,6000.0
+2025-10-20,Academic Block A,1012.3,9313.15,359,4500.0
+2025-10-20,Central Library & Data Center,834.81,7680.29,200,3200.0
+2025-10-20,Student Hostels & Mess,894.68,8231.03,421,6000.0
+2025-10-21,Academic Block A,920.98,8473.06,467,4500.0
+2025-10-21,Central Library & Data Center,861.35,7924.41,195,3200.0
+2025-10-21,Student Hostels & Mess,896.49,8247.74,451,6000.0
+2025-10-22,Academic Block A,920.69,8470.32,359,4500.0
+2025-10-22,Central Library & Data Center,847.33,7795.42,194,3200.0
+2025-10-22,Student Hostels & Mess,906.8,8342.54,478,6000.0
+2025-10-23,Academic Block A,928.13,8538.76,427,4500.0
+2025-10-23,Central Library & Data Center,898.09,8262.39,201,3200.0
+2025-10-23,Student Hostels & Mess,853.47,7851.94,451,6000.0
+2025-10-24,Academic Block A,954.57,8782.0,498,4500.0
+2025-10-24,Central Library & Data Center,836.32,7694.16,211,3200.0
+2025-10-24,Student Hostels & Mess,120.0,1104.0,25,6000.0
+2025-10-25,Academic Block A,340.79,3135.28,38,4500.0
+2025-10-25,Central Library & Data Center,798.27,7344.07,110,3200.0
+2025-10-25,Student Hostels & Mess,863.95,7948.31,505,6000.0
+2025-10-26,Academic Block A,379.09,3487.66,36,4500.0
+2025-10-26,Central Library & Data Center,756.45,6959.31,112,3200.0
+2025-10-26,Student Hostels & Mess,794.85,7312.6,465,6000.0
+2025-10-27,Academic Block A,991.63,9123.0,499,4500.0
+2025-10-27,Central Library & Data Center,848.39,7805.19,206,3200.0
+2025-10-27,Student Hostels & Mess,871.55,8018.22,469,6000.0
+2025-10-28,Academic Block A,970.37,8927.42,437,4500.0
+2025-10-28,Central Library & Data Center,791.64,7283.11,223,3200.0
+2025-10-28,Student Hostels & Mess,909.95,8371.57,516,6000.0
+2025-10-29,Academic Block A,1045.6,9619.52,352,4500.0
+2025-10-29,Central Library & Data Center,853.37,7850.96,208,3200.0
+2025-10-29,Student Hostels & Mess,827.17,7609.96,449,6000.0
+2025-10-30,Academic Block A,983.79,9050.86,477,4500.0
+2025-10-30,Central Library & Data Center,863.41,7943.34,187,3200.0
+2025-10-30,Student Hostels & Mess,887.58,8165.75,548,6000.0
+2025-10-31,Academic Block A,968.12,8906.68,457,4500.0
+2025-10-31,Central Library & Data Center,830.13,7637.19,189,3200.0
+2025-10-31,Student Hostels & Mess,863.58,7944.93,547,6000.0
+2025-11-01,Academic Block A,376.49,3463.71,31,4500.0
+2025-11-01,Central Library & Data Center,770.01,7084.1,130,3200.0
+2025-11-01,Student Hostels & Mess,863.86,7947.54,465,6000.0
+2025-11-02,Academic Block A,257.4,2368.12,39,4500.0
+2025-11-02,Central Library & Data Center,710.85,6539.85,123,3200.0
+2025-11-02,Student Hostels & Mess,862.33,7933.45,500,6000.0
+2025-11-03,Academic Block A,1019.69,9381.12,419,4500.0
+2025-11-03,Central Library & Data Center,859.92,7911.27,235,3200.0
+2025-11-03,Student Hostels & Mess,854.75,7863.7,530,6000.0
+2025-11-04,Academic Block A,969.26,8917.22,474,4500.0
+2025-11-04,Central Library & Data Center,872.72,8029.04,205,3200.0
+2025-11-04,Student Hostels & Mess,922.36,8485.73,456,6000.0
+2025-11-05,Academic Block A,951.27,8751.69,369,4500.0
+2025-11-05,Central Library & Data Center,824.05,7581.22,196,3200.0
+2025-11-05,Student Hostels & Mess,875.53,8054.84,433,6000.0
+2025-11-06,Academic Block A,1084.12,9973.89,352,4500.0
+2025-11-06,Central Library & Data Center,840.19,7729.78,234,3200.0
+2025-11-06,Student Hostels & Mess,870.08,8004.76,551,6000.0
+2025-11-07,Academic Block A,968.1,8906.53,431,4500.0
+2025-11-07,Central Library & Data Center,816.4,7510.92,198,3200.0
+2025-11-07,Student Hostels & Mess,928.73,8544.36,468,6000.0
+2025-11-08,Academic Block A,332.2,3056.21,60,4500.0
+2025-11-08,Central Library & Data Center,767.88,7064.47,127,3200.0
+2025-11-08,Student Hostels & Mess,810.43,7455.95,496,6000.0
+2025-11-09,Academic Block A,360.98,3321.0,45,4500.0
+2025-11-09,Central Library & Data Center,778.73,7164.28,134,3200.0
+2025-11-09,Student Hostels & Mess,819.13,7535.98,442,6000.0
+2025-11-10,Academic Block A,929.13,8547.98,465,4500.0
+2025-11-10,Central Library & Data Center,859.59,7908.26,224,3200.0
+2025-11-10,Student Hostels & Mess,932.89,8582.58,423,6000.0
+2025-11-11,Academic Block A,909.25,8365.13,492,4500.0
+2025-11-11,Central Library & Data Center,835.93,7690.51,249,3200.0
+2025-11-11,Student Hostels & Mess,909.75,8369.71,557,6000.0
+2025-11-12,Academic Block A,907.05,8344.85,399,4500.0
+2025-11-12,Central Library & Data Center,851.75,7836.12,249,3200.0
+2025-11-12,Student Hostels & Mess,863.39,7943.16,500,6000.0
+2025-11-13,Academic Block A,942.75,8673.27,413,4500.0
+2025-11-13,Central Library & Data Center,797.37,7335.83,216,3200.0
+2025-11-13,Student Hostels & Mess,789.04,7259.13,424,6000.0
+2025-11-14,Academic Block A,933.02,8583.81,449,4500.0
+2025-11-14,Central Library & Data Center,835.57,7687.29,180,3200.0
+2025-11-14,Student Hostels & Mess,968.49,8910.11,443,6000.0
+2025-11-15,Academic Block A,1820.0,16744.0,51,4500.0
+2025-11-15,Central Library & Data Center,757.74,6971.24,135,3200.0
+2025-11-15,Student Hostels & Mess,796.46,7327.47,410,6000.0
+2025-11-16,Academic Block A,370.58,3409.34,49,4500.0
+2025-11-16,Central Library & Data Center,745.0,6854.04,119,3200.0
+2025-11-16,Student Hostels & Mess,841.26,7739.59,487,6000.0
+2025-11-17,Academic Block A,926.07,8519.82,363,4500.0
+2025-11-17,Central Library & Data Center,807.79,7431.69,189,3200.0
+2025-11-17,Student Hostels & Mess,934.14,8594.12,525,6000.0
+2025-11-18,Academic Block A,932.86,8582.28,419,4500.0
+2025-11-18,Central Library & Data Center,835.76,7688.98,235,3200.0
+2025-11-18,Student Hostels & Mess,867.71,7982.95,526,6000.0
+2025-11-19,Academic Block A,973.57,8956.88,356,4500.0
+2025-11-19,Central Library & Data Center,802.47,7382.72,249,3200.0
+2025-11-19,Student Hostels & Mess,907.48,8348.84,539,6000.0
+2025-11-20,Academic Block A,972.93,8950.96,477,4500.0
+2025-11-20,Central Library & Data Center,833.27,7666.04,200,3200.0
+2025-11-20,Student Hostels & Mess,991.82,9124.77,501,6000.0
+2025-11-21,Academic Block A,989.07,9099.44,398,4500.0
+2025-11-21,Central Library & Data Center,815.3,7500.78,198,3200.0
+2025-11-21,Student Hostels & Mess,909.88,8370.92,559,6000.0
+2025-11-22,Academic Block A,351.09,3230.0,54,4500.0
+2025-11-22,Central Library & Data Center,716.18,6588.85,96,3200.0
+2025-11-22,Student Hostels & Mess,901.57,8294.47,465,6000.0
+2025-11-23,Academic Block A,402.79,3705.65,58,4500.0
+2025-11-23,Central Library & Data Center,814.3,7491.52,123,3200.0
+2025-11-23,Student Hostels & Mess,876.88,8067.32,465,6000.0
+2025-11-24,Academic Block A,866.21,7969.16,366,4500.0
+2025-11-24,Central Library & Data Center,796.26,7325.63,244,3200.0
+2025-11-24,Student Hostels & Mess,919.66,8460.89,493,6000.0
+2025-11-25,Academic Block A,988.65,9095.54,447,4500.0
+2025-11-25,Central Library & Data Center,863.52,7944.37,195,3200.0
+2025-11-25,Student Hostels & Mess,968.39,8909.23,505,6000.0
+2025-11-26,Academic Block A,922.45,8486.57,425,4500.0
+2025-11-26,Central Library & Data Center,837.02,7700.62,239,3200.0
+2025-11-26,Student Hostels & Mess,868.48,7990.01,478,6000.0
+2025-11-27,Academic Block A,939.87,8646.84,412,4500.0
+2025-11-27,Central Library & Data Center,834.63,7678.63,228,3200.0
+2025-11-27,Student Hostels & Mess,871.76,8020.21,439,6000.0
+2025-11-28,Academic Block A,933.04,8583.93,476,4500.0
+2025-11-28,Central Library & Data Center,860.26,7914.42,194,3200.0
+2025-11-28,Student Hostels & Mess,929.96,8555.61,539,6000.0
+2025-11-29,Academic Block A,373.09,3432.46,49,4500.0
+2025-11-29,Central Library & Data Center,709.28,6525.38,117,3200.0
+2025-11-29,Student Hostels & Mess,899.7,8277.27,492,6000.0
+2025-11-30,Academic Block A,374.09,3441.67,60,4500.0
+2025-11-30,Central Library & Data Center,707.77,6511.46,92,3200.0
+2025-11-30,Student Hostels & Mess,840.99,7737.15,423,6000.0
+2025-12-01,Academic Block A,846.88,7791.28,355,4500.0
+2025-12-01,Central Library & Data Center,833.79,7670.9,218,3200.0
+2025-12-01,Student Hostels & Mess,833.54,7668.53,470,6000.0
+2025-12-02,Academic Block A,877.74,8075.25,360,4500.0
+2025-12-02,Central Library & Data Center,741.4,6820.86,203,3200.0
+2025-12-02,Student Hostels & Mess,734.47,6757.11,460,6000.0
+2025-12-03,Academic Block A,939.3,8641.55,404,4500.0
+2025-12-03,Central Library & Data Center,770.4,7087.69,188,3200.0
+2025-12-03,Student Hostels & Mess,822.62,7568.06,523,6000.0
+2025-12-04,Academic Block A,846.37,7786.59,391,4500.0
+2025-12-04,Central Library & Data Center,798.6,7347.08,181,3200.0
+2025-12-04,Student Hostels & Mess,718.78,6612.82,426,6000.0
+2025-12-05,Academic Block A,784.54,7217.81,376,4500.0
+2025-12-05,Central Library & Data Center,776.93,7147.78,219,3200.0
+2025-12-05,Student Hostels & Mess,893.75,8222.47,427,6000.0
+2025-12-06,Academic Block A,323.23,2973.68,34,4500.0
+2025-12-06,Central Library & Data Center,671.45,6177.38,126,3200.0
+2025-12-06,Student Hostels & Mess,760.71,6998.51,383,6000.0
+2025-12-07,Academic Block A,276.33,2542.23,30,4500.0
+2025-12-07,Central Library & Data Center,682.27,6276.9,134,3200.0
+2025-12-07,Student Hostels & Mess,695.5,6398.64,481,6000.0
+2025-12-08,Academic Block A,874.27,8043.32,408,4500.0
+2025-12-08,Central Library & Data Center,773.62,7117.32,204,3200.0
+2025-12-08,Student Hostels & Mess,895.58,8239.36,545,6000.0
+2025-12-09,Academic Block A,868.2,7987.47,358,4500.0
+2025-12-09,Central Library & Data Center,735.75,6768.91,229,3200.0
+2025-12-09,Student Hostels & Mess,803.44,7391.64,540,6000.0
+2025-12-10,Academic Block A,835.7,7688.46,488,4500.0
+2025-12-10,Central Library & Data Center,746.3,6865.97,252,3200.0
+2025-12-10,Student Hostels & Mess,821.29,7555.83,550,6000.0
+2025-12-11,Academic Block A,858.14,7894.89,370,4500.0
+2025-12-11,Central Library & Data Center,769.26,7077.2,207,3200.0
+2025-12-11,Student Hostels & Mess,769.39,7078.38,460,6000.0
+2025-12-12,Academic Block A,836.52,7695.97,400,4500.0
+2025-12-12,Central Library & Data Center,786.46,7235.44,236,3200.0
+2025-12-12,Student Hostels & Mess,779.11,7167.79,442,6000.0
+2025-12-13,Academic Block A,246.67,2269.36,34,4500.0
+2025-12-13,Central Library & Data Center,685.32,6304.9,133,3200.0
+2025-12-13,Student Hostels & Mess,754.15,6938.17,412,6000.0
+2025-12-14,Academic Block A,313.91,2887.98,49,4500.0
+2025-12-14,Central Library & Data Center,633.33,5826.61,124,3200.0
+2025-12-14,Student Hostels & Mess,749.89,6899.01,426,6000.0
+2025-12-15,Academic Block A,867.75,7983.28,473,4500.0
+2025-12-15,Central Library & Data Center,730.23,6718.14,180,3200.0
+2025-12-15,Student Hostels & Mess,771.63,7099.02,486,6000.0
+2025-12-16,Academic Block A,889.99,8187.9,353,4500.0
+2025-12-16,Central Library & Data Center,727.92,6696.87,194,3200.0
+2025-12-16,Student Hostels & Mess,809.31,7445.64,440,6000.0
+2025-12-17,Academic Block A,878.13,8078.76,494,4500.0
+2025-12-17,Central Library & Data Center,743.39,6839.16,218,3200.0
+2025-12-17,Student Hostels & Mess,803.29,7390.25,553,6000.0
+2025-12-18,Academic Block A,888.6,8175.08,500,4500.0
+2025-12-18,Central Library & Data Center,726.62,6684.9,225,3200.0
+2025-12-18,Student Hostels & Mess,746.45,6867.37,457,6000.0
+2025-12-19,Academic Block A,829.25,7629.07,384,4500.0
+2025-12-19,Central Library & Data Center,698.37,6425.0,198,3200.0
+2025-12-19,Student Hostels & Mess,770.59,7089.4,507,6000.0
+2025-12-20,Academic Block A,310.93,2860.52,43,4500.0
+2025-12-20,Central Library & Data Center,641.34,5900.37,137,3200.0
+2025-12-20,Student Hostels & Mess,754.87,6944.78,462,6000.0
+2025-12-21,Academic Block A,352.95,3247.17,42,4500.0
+2025-12-21,Central Library & Data Center,662.86,6098.28,96,3200.0
+2025-12-21,Student Hostels & Mess,778.13,7158.78,503,6000.0
+2025-12-22,Academic Block A,947.56,8717.54,468,4500.0
+2025-12-22,Central Library & Data Center,803.99,7396.67,193,3200.0
+2025-12-22,Student Hostels & Mess,813.28,7482.19,539,6000.0
+2025-12-23,Academic Block A,871.53,8018.06,379,4500.0
+2025-12-23,Central Library & Data Center,793.15,7296.94,188,3200.0
+2025-12-23,Student Hostels & Mess,791.22,7279.25,508,6000.0
+2025-12-24,Academic Block A,841.36,7740.48,491,4500.0
+2025-12-24,Central Library & Data Center,689.81,6346.24,238,3200.0
+2025-12-24,Student Hostels & Mess,823.17,7573.16,497,6000.0
+2025-12-25,Academic Block A,897.76,8259.43,469,4500.0
+2025-12-25,Central Library & Data Center,789.32,7261.73,234,3200.0
+2025-12-25,Student Hostels & Mess,841.55,7742.22,431,6000.0
+2025-12-26,Academic Block A,860.16,7913.49,384,4500.0
+2025-12-26,Central Library & Data Center,763.57,7024.85,200,3200.0
+2025-12-26,Student Hostels & Mess,764.62,7034.5,488,6000.0
+2025-12-27,Academic Block A,278.63,2563.43,41,4500.0
+2025-12-27,Central Library & Data Center,626.54,5764.13,122,3200.0
+2025-12-27,Student Hostels & Mess,745.26,6856.42,516,6000.0
+2025-12-28,Academic Block A,391.91,3605.59,33,4500.0
+2025-12-28,Central Library & Data Center,632.46,5818.66,101,3200.0
+2025-12-28,Student Hostels & Mess,747.64,6878.31,426,6000.0
+2025-12-29,Academic Block A,837.51,7705.13,401,4500.0
+2025-12-29,Central Library & Data Center,711.46,6545.39,201,3200.0
+2025-12-29,Student Hostels & Mess,856.49,7879.72,439,6000.0
+2025-12-30,Academic Block A,914.17,8410.37,481,4500.0
+2025-12-30,Central Library & Data Center,713.66,6565.63,183,3200.0
+2025-12-30,Student Hostels & Mess,807.55,7429.45,495,6000.0
+2025-12-31,Academic Block A,952.69,8764.77,440,4500.0
+2025-12-31,Central Library & Data Center,732.72,6741.06,234,3200.0
+2025-12-31,Student Hostels & Mess,828.27,7620.12,480,6000.0
